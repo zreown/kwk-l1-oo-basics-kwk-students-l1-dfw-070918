@@ -1,5 +1,3 @@
-
-
 # Object Orientation Basics
 
 ## Description
@@ -597,4 +595,4 @@ To run the specs, type `learn spec/02_shoe_spec.rb` on your command line.
 
 Happy coding!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-basics' title='Object Orientation Basics'>Object Orientation Basics</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Object Orientation Basics</p>
