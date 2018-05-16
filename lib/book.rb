@@ -1,3 +1,2 @@
-class Book
-
-end
+# book.rb
+# Add you Book class here
