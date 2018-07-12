@@ -1,4 +1,5 @@
 # Make your shoe class here!
 
 class Shoe 
-  attr_
+  attr_accessor
+  attr_reader
